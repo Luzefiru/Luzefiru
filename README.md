@@ -1,4 +1,4 @@
-# Zeph
+# Luzefiru
 ### 💬 About
 
 -  **Learning :** Data Science | Computer Science | Project Management	
