@@ -31,8 +31,7 @@
 
 ### 🚦 Stats
 
-<a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luzefiru&show_icons=true&hide=commits" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Luzefiru&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzefiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/Luzefiru/badges/large)
