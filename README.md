@@ -38,6 +38,6 @@
 ### 🚦 Stats
 <p align="center">
     <img width="480" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzefiru&layout=compact" />
-    <a href="https://open.spotify.com/user/22tqn7polbzfedk6ybpe24xky?si=082291054cd84df8"><img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="My Spotify"></a>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&redirect=true"><img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f" alt="If you're seeing this, my Spotify is playing an ad :/"></a>
     <a href="https://www.codewars.com/users/Luzefiru"><img width="500" src="https://www.codewars.com/users/Luzefiru/badges/large" alt="Codewars Stats"></a>
 </p>
