@@ -37,12 +37,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🚦 Stats
 
-
 <p align="center">
-    <img width="500" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzefiru&layout=compact" />
-</p>
-
-<p align="center">
-    <img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=8406e5&bar_color_cover=true" alt="My Spotify">
-    <img width="500" src="https://www.codewars.com/users/Luzefiru/badges/large" alt="Codewars Stats">
+    <img width="400" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzefiru&layout=compact" />
+    <a href="https://open.spotify.com/user/22tqn7polbzfedk6ybpe24xky?si=082291054cd84df8"><img width="500" src="https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=8406e5&bar_color_cover=true" alt="My Spotify"></a>
+    <a href="https://www.codewars.com/users/Luzefiru"><img width="400" src="https://www.codewars.com/users/Luzefiru/badges/large" alt="Codewars Stats"></a>
 </p>
