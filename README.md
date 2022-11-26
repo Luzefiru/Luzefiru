@@ -1,7 +1,7 @@
 # Luzefiru
 ### 💬 About
 
--  **Learning :** Computer Science | Web Development | Linux
+-  **Learning :** Computer Science | Web Development | Unix
 -  **Hobbies :** Music, Books, and Personal Finance 💸
 -  **Organization :** Google Developer Student Club - University of San Carlos 💙:heart:💛💚
 
