@@ -30,8 +30,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚦 Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Luzefiru&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzefiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tqn7polbzfedk6ybpe24xky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=8406e5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ![Codewars](https://www.codewars.com/users/Luzefiru/badges/large)
