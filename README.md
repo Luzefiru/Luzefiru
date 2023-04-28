@@ -1,6 +1,7 @@
 # Luzefiru
-
-<div style="width: 100%; height: 300px; background: url('./assets/space.svg') center; display: flex; justify-content: center"><img style="transform: scale(1.5)" src="./assets/logo-glow.png" /></div>
+<div align="center" style="position: relative">
+  <img style="width: 100%; height: 300px;" src="./assets/space.svg" />
+</div>
 
 ---
 
@@ -42,7 +43,7 @@ const docs = {
 
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 8px">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
   <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
     <img style="width: 392px" src="https://github-readme-stats.vercel.app/api?username=luzefiru&show_icons=true&theme=highcontrast"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzefiru&theme=highcontrast&layout=compact&hide=jupyter%20notebook" />
