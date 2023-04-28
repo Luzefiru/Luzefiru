@@ -1,7 +1,6 @@
 # Luzefiru
-<div align="center" style="position: relative">
-  <img style="width: 100%; height: 300px;" src="./assets/space.svg" />
-</div>
+
+<img style="width: 100%;" src="./assets/banner.gif" />
 
 ---
 
