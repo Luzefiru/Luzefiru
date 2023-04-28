@@ -1,6 +1,8 @@
 # Luzefiru
 
-<img style="width: 100%;" src="./assets/banner.gif" />
+<p align="center">
+  <img src="./assets/banner.gif" width="1000"/>
+</p>
 
 ---
 
