@@ -9,7 +9,7 @@
 ```js
 const src = {
   client: {
-    core: ['HTML', 'CSS', 'JavaScript'],
+    core: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
     framework: ['React', 'Bootstrap'],
   },
   server: {
