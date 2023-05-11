@@ -10,7 +10,7 @@
 const src = {
   client: {
     core: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
-    framework: ['React', 'Bootstrap'],
+    framework: ['React', 'Bootstrap', 'Tailwind CSS'],
   },
   server: {
     template: ['EJS'],
