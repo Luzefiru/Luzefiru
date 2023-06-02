@@ -19,6 +19,7 @@ const src = {
   database: {
     SQL: ['SQLite'],
     NoSQL: ['Firebase', 'MongoDB'],
+    GraphQL: ['Apollo']
   },
   test: ['Jest'],
   dev: {
