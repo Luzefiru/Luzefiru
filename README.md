@@ -21,7 +21,7 @@ const src = {
     NoSQL: ['Firebase', 'MongoDB'],
     GraphQL: ['Apollo']
   },
-  test: ['Jest'],
+  test: ['Jest, Cypress'],
   dev: {
     build: ['npm', 'webpack', 'Babel'],
     format: ['ESLint', 'Prettier'],
