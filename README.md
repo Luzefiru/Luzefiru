@@ -17,6 +17,7 @@ const src = {
   server: {
     template: ['EJS'],
     framework: ['Node.js', 'Express.js'],
+    security: ['bcrypt', 'JWT'],
   },
   database: {
     SQL: ['SQLite'],
@@ -35,8 +36,8 @@ const src = {
 const assets = {
   ui: ['Figma'],
   audio: ['FL Studio'],
-  image: ['Photoshop'],
-  video: ['Premiere Pro', 'After Effects'],
+  img: ['Photoshop'],
+  vid: ['Premiere Pro', 'After Effects'],
 };
 
 const docs = {
