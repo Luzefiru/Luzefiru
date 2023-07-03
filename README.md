@@ -10,7 +10,9 @@
 const src = {
   client: {
     core: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
-    framework: ['React', 'Bootstrap', 'Tailwind CSS'],
+    framework: ['React', 'Next.js'],
+    style: ['Bootstrap', 'Tailwind CSS'],
+    etc: ['Redux', 'React Query'],
   },
   server: {
     template: ['EJS'],
@@ -21,7 +23,7 @@ const src = {
     NoSQL: ['Firebase', 'MongoDB'],
     GraphQL: ['Apollo']
   },
-  test: ['Jest, Cypress'],
+  test: ['Jest', 'React Testing Library', 'Cypress'],
   dev: {
     build: ['npm', 'webpack', 'Babel'],
     format: ['ESLint', 'Prettier'],
