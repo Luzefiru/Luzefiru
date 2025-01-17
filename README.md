@@ -19,7 +19,7 @@
 <div align="start" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%">
     <div style="display: flex; width: 100%; justify-content: center; gap: 8px">
   <img src="https://github-readme-stats.vercel.app/api?username=luzefiru&count_private=true&show_icons=true&theme=apprentice&hide_border=true"/>
-  <img style="width: 352px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzefiru&theme=apprentice&hide_border=true&layout=compact"/>
+  <img style="width: 352px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzefiru&theme=apprentice&hide_border=true&layout=compact&hide=jupyter%20notebook"/>
   </div>
 </div>
 
